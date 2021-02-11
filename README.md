@@ -1,4 +1,4 @@
-# Rust-Space-Game
+# Rust Space Game
 Made in Rust for an assignment for KTH course DD1337
 
 The player (frog in spaceship) is controlled using the arrow keys. The player will move faster if you hold down the left shift key while moving.
