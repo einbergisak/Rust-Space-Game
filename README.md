@@ -1,8 +1,9 @@
 # Rust-Space-Game
-Made for an assignment for KTH course DD1337
+Made fully in Rust for an assignment for KTH course DD1337
 
 The player (frog in spaceship) is controlled using the arrow keys. 
-Power-ups can be obtained by letting the player touch them. They are activated by using the respective key indicated at the inventory HUD in the bottom left corner of the screen.
+
+Power-ups can be obtained by moving the player into them. They can be activated by pressing the key indicated above each power-up on the inventory HUD in the bottom left corner of the screen.
 
 
 ## Game screenshot
